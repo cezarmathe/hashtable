@@ -85,7 +85,13 @@
 		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/hash.c">
 			<Option target="hashtable"/>
 		</Unit>
-		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/hash.h">
+		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/hash_djb2.h">
+			<Option target="hashtable"/>
+		</Unit>
+		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/log.c">
+			<Option target="hashtable"/>
+		</Unit>
+		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/log.h">
 			<Option target="hashtable"/>
 		</Unit>
 		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/main.c">
