@@ -76,6 +76,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/command.c">
+			<Option target="hashtable"/>
+		</Unit>
+		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/command.h">
+			<Option target="hashtable"/>
+		</Unit>
 		<Unit filename="/Users/cezarmathe/Stuff/2021_03_27-luca_6_3_1/src/hash.c">
 			<Option target="hashtable"/>
 		</Unit>
